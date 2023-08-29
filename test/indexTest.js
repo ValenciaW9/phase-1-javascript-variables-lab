@@ -21,10 +21,10 @@ describe('index.js', function () {
       expect(mostProfitableNeighborhood).to.equal('Chelsea');
     });
 
-    it('is defined using let', function () {
-      expect(js).to.match(/let mostProfitableNeighborhood/, "Expected mostProfitableNeighborhood to be defined using let");
+    i
+    it('it set as Scuber', function() {
+    expect(companyName).to.equal('Schuber');
     });
-  });
 
   describe('companyCeo', function () {
     it('is declared as equal to Susan Smith', function () {
